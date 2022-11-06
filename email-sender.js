@@ -9,7 +9,7 @@ let mailtransporter = mailerimp.createTransport // responsible for sending the e
   port: 465,
   auth: {
     user: "chinedu.nnenanya@hacklift.com", //sender's email address
-    pass: "NDKp84fwixVz",  //sender's App password (NOT the real password)
+    pass: "***************",  //sender's App password (NOT the real password)
   },
 });
 
